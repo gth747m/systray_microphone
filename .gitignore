@@ -52,3 +52,11 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+CMakeFiles
+systray_microphone
+systray_microphone_autogen
+CMakeCache.txt
+Makefile
+.qt
+.rcc
+cmake_install.cmake
